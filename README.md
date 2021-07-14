@@ -3,11 +3,11 @@
 # Gifer - Discord Bot 🤖
 
 
-[**View Source**](https://github.com/Basecamp-Community/Gifer-Discord-Bot) | [**Try it**]() | [**Watch Session Recording**](https://youtu.be/2wtx4lRP05Q)
+[**View Source**](https://github.com/Basecamp-Community/Gifer-Discord-Bot) | [**Try it**]() | [**Watch Session Recording**](https://youtu.be/FAbGyOPxw-U)
 
 
 ## About
-This project is a part of **#BuildWithMe** weekly workshop organized by [Basecamp Community](https://github.com/Basecamp-Community) & mentored by [Rishabh Singh](https://github.com/mindninjaX). Watch the session recording [here](https://youtu.be/FAbGyOPxw-U).
+This project is a part of **#BuildWithMe** weekly workshop organized by [Basecamp Community](https://github.com/Basecamp-Community) & mentored by [Shreyas Pahune](https://github.com/shreyazz). Watch the session recording [here](https://youtu.be/FAbGyOPxw-U).
 
 
 ## Built With
