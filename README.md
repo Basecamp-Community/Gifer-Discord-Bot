@@ -3,7 +3,7 @@
 # Gifer - Discord Bot 🤖
 
 
-[**View Source**](https://github.com/Basecamp-Community/Gifer-Discord-Bot) | [**Try it**]() | [**Watch Session Recording**](https://youtu.be/FAbGyOPxw-U)
+[**View Source**](https://github.com/Basecamp-Community/Gifer-Discord-Bot) | [**Try it**](https://discord.com/oauth2/authorize?client_id=859672960185270282&permissions=182272&scope=bot) | [**Watch Session Recording**](https://youtu.be/FAbGyOPxw-U)
 
 
 ## About
